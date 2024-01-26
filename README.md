@@ -17,5 +17,6 @@ Spike and Object Fence System for SA-MP     This script provides a fence system 
 **/bort create** - установка ограждения
 **/bort edit** - редактирование ограждения
 
+
 **/spikes place** - установка дорожных шипов
 **/spikes pickup** - удаление дорожных шипов
