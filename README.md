@@ -3,7 +3,7 @@ Spike and Object Fence System for SA-MP     This script provides a fence system 
 
 ===============================
 
-Скрипты на PAWN для SA:MP.
+Скрипты на языке PAWN для SA:MP.
 Организована основная логика установки объектов-ограждений и дорожных шипов для полиции.
 Скрипты требуют большой доработки, исходя из используемых модов, базы данных и ограничений сервера.
 
@@ -25,3 +25,6 @@ Spike and Object Fence System for SA-MP     This script provides a fence system 
 **/spikes place** - установка дорожных шипов
 
 **/spikes pickup** - удаление дорожных шипов
+
+
+(spent on script development: 1 day)
